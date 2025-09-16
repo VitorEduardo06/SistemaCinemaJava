@@ -1,0 +1,3 @@
+vitor;6768768768;19;6767868768;false
+Kamilla;095;19;095;true
+Vitor;636;19;123;true
